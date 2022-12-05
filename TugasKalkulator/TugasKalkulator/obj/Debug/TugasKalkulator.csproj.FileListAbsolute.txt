@@ -1,0 +1,11 @@
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\bin\Debug\TugasKalkulator.exe.config
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\bin\Debug\TugasKalkulator.exe
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\bin\Debug\TugasKalkulator.pdb
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.csproj.AssemblyReference.cache
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.Calculator.resources
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.HasilPerhitungan.resources
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.Properties.Resources.resources
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.csproj.GenerateResource.cache
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.exe
+D:\Visual Studio\Hasil\Pemrograman Lanjut\P8\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.pdb
